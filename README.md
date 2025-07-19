@@ -18,17 +18,17 @@ The script demonstrates the practical application of these components by trainin
 
 ## Getting Started
 
-This project has minimal dependencies. Ensure you have the following libraries installed in your Python environment:
+Ensure you have the following libraries installed in your Python environment:
 
 -   **NumPy:** For efficient numerical computations. Install via pip:
 
-    ```bash
+    ```
     pip install numpy
     ```
 
 -   **scikit-learn:** Used here for generating the synthetic `make_moons` dataset. Install via pip:
 
-    ```bash
+    ```
     pip install scikit-learn
     ```
 
@@ -36,7 +36,7 @@ This project has minimal dependencies. Ensure you have the following libraries i
 
 To execute the code, simply run the Python file:
 
-```bash
+```
 python main.py
 ```
 
