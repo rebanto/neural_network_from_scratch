@@ -37,7 +37,7 @@ Ensure you have the following libraries installed in your Python environment:
 To execute the code, simply run the Python file:
 
 ```
-python main.py
+python basic_neural_network.py
 ```
 
 Upon execution, the script will:
